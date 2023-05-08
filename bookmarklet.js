@@ -1,4 +1,4 @@
-var sheetLocation = "https://cdn.jsdelivr.net/gh/NomnomPlays/CSS-Editor-Bookmarklets/";
+var sheetLocation = "https://rawcdn.githack.com/NomnomPlays/CSS-Editor-Bookmarklets/a62115ba7240a26baf2931db1817e3ede3ed729a/";
 
 if (window.location.href.startsWith('https://lyons204.instructure.com')) {
   var canvas = document.createElement('link');
@@ -7,5 +7,5 @@ if (window.location.href.startsWith('https://lyons204.instructure.com')) {
   canvas.type = 'text/css';
   document.body.appendChild(canvas);
   
-  alert(sheetLocation);
+  alert(sheetLocation + 'canvas.css');
 }
