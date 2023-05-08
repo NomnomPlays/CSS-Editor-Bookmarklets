@@ -1,4 +1,4 @@
-var sheetLocation = 'https://raw.githubusercontent.com/NomnomPlays/CSS-Editor-Bookmarklets/main/';
+var sheetLocation = "https://raw.githubusercontent.com/NomnomPlays/CSS-Editor-Bookmarklets/main/";
 
 alert(sheetLocation + 'canvas.css');
 
