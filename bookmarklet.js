@@ -1,8 +1,4 @@
-alert("hi");
-
-const sheetLocation = "https://raw.githubusercontent.com/NomnomPlays/CSS-Editor-Bookmarklets/main/";
-
-alert(sheetLocation);
+var sheetLocation = "https://raw.githubusercontent.com/NomnomPlays/CSS-Editor-Bookmarklets/main/";
 
 if (window.location.href.startsWith('https://lyons204.instructure.com')) {
   var canvas = document.createElement('link');
