@@ -9,5 +9,5 @@ if (window.location.href.startsWith('https://lyons204.instructure.com')) {
   canvas.type = 'text/css';
   document.body.appendChild(canvas);
   
-  alert(canvas);
+  alert(canvas.href);
 }
