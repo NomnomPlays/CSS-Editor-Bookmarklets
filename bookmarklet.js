@@ -1,3 +1,5 @@
+alert("hi");
+
 const sheetLocation = "https://raw.githubusercontent.com/NomnomPlays/CSS-Editor-Bookmarklets/main/";
 
 alert(sheetLocation);
